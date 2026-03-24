@@ -1,0 +1,8 @@
+{
+  "name": "Remix: ✅ TARBIYAH CARE PREMIUM - Islamic Wellness \u0026 Life Guidance",
+  "description": "An Islamic wellness and life guidance application powered by AI. It provides premium features like the guided \u0027Tarbiyah Journey\u0027, AI-based consultation, a multi-page Quran reader, an Islamic calendar, and a self-development roadmap to help users navigate life\u0027s challenges with faith.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
